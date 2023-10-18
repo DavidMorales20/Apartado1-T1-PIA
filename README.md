@@ -1,2 +1,7 @@
 # Apartado1-T1-PIA
-En este repositorio se realizará el apartado 1
+Esta es una tarea simple para aprender a usar GitHub. En esta tarea, se realizará lo siguiente:
+
+- Crear una cuenta en GitHub.
+- Crear un repositorio.
+- Agregar un archivo "Hola Mundo" en Python.
+- Editar y confirmar cambios en tu repositorio.
